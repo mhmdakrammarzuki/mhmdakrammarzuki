@@ -1,103 +1,25 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vcenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Muh.+Akram+Marzuki;Cybersecurity+%26+Cloud+Enthusiast;Student+at+Universitas+Negeri+Makassar" alt="Typing SVG" />
-</div>
+# 💫 About Me:
+🔭 I’m currently working on **Cybersecurity & Cloud Projects**<br>
+👯 I’m looking to collaborate on **DevOps & Open Source Projects**<br>
+🤝 I’m looking for help with **Advanced Network Security & Cloud Architecture**<br>
+🌱 I’m currently learning **Cybersecurity, Cloud Engineering, and DevOps**<br>
+💬 Ask me about **Linux, Docker, C++, and Bash Scripting**<br>
+⚡ Fun fact: **The purpose of life is to eat, work, sleep, and repeat.**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Muh.%20Akram%20Marzuki&fontSize=42&fontAlignY=35&animation=twinkle" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/mhmdakrammarzuki">
-    <img src="https://komarev.com/ghpvc/?username=mhmdakrammarzuki&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmdakrammarzuki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmdakrammarzuki) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mhmdakrammarzuki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhmdaqrammarzuki@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23E87D0D.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-## 💫 About Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mhmdakrammarzuki&theme=tokyonight&hide_border=true&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmdakrammarzuki&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdakrammarzuki&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact)
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <br />
-      <ul>
-        <li>🎓 Student at <b>Universitas Negeri Makassar</b> (State University of Makassar)</li>
-        <li>🌱 Currently learning <b>Cybersecurity, Cloud Engineering, & DevOps</b></li>
-        <li>🔭 Working on personal lab projects & Linux system administration</li>
-        <li>💬 Ask me about <b>Linux, Docker, Bash, & Networking</b></li>
-        <li>📫 Reach me at: <a href="mailto:mhmdaqrammarzuki@gmail.com"><b>mhmdaqrammarzuki@gmail.com</b></a></li>
-        <li>⚡ Fun fact: <i>The purpose of life is to eat, work, sleep, and repeat.</i></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg24/giphy.gif" width="100%" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mhmdakrammarzuki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mhmdakrammarzuki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/mhmdakrammarzuki" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@mhmdakrammarzuki" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:mhmdaqrammarzuki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cpp,python,powershell,docker,linux,figma,canva,blender&perline=9" alt="Tech Stack" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mhmdakrammarzuki&theme=tokyonight&column=6&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mhmdakrammarzuki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdakrammarzuki&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdakrammarzuki&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+[![](https://komarev.com/ghpvc/?username=mhmdakrammarzuki&icon=2&color=0e75b6)](https://github.com/mhmdakrammarzuki)
