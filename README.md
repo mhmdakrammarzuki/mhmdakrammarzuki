@@ -1,265 +1,28 @@
-<!-- ═══════════════════════════════════════════════ HEADER ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,70:132030,100:1a2a3a&height=210&section=header&text=Muhammad%20Akram%20Marzuki&fontSize=36&fontColor=cdd6f4&fontAlignY=40&desc=./mhmdaqramm%20—%20student%20%7C%20illustrator%20%7C%20builder&descSize=14&descAlignY=60&descColor=6c7086&animation=fadeIn"/>
-</div>
+<h1 align="center">Name: Muh. Akram Marzuki</h1>
+<h3 align="center">A student from Universitas Negeri Makassar (State University of Makassar)</h3>
 
-<!-- ═══════════════════════════════════════════ TYPING ══ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=900&color=89B4FA&center=true&vCenter=true&width=560&lines=%24+whoami+→+Computer+Engineering+Student%2C+UNM+2025;%24+location+→+Bantaeng%2C+South+Sulawesi%2C+Indonesia+🇮🇩;%24+learning+→+C%2B%2B+%7C+Java+%7C+Python+(Novice);%24+community+→+Google+Developer+On+Campus;%24+hobby+→+coding+%2B+illustration+%2B+anime+📐🎨" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdakrammarzuki&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdakrammarzuki" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdakrammarzuki" alt="mhmdakrammarzuki" /></a> </p>
 
-<!-- ═══════════════════════════════════════ SOCIAL LINKS ══ -->
-<div align="center">
-  <a href="https://www.youtube.com/@MuhammadAkramMarzuki">
-    <img src="https://img.shields.io/badge/YouTube-%40MuhammadAkramMarzuki-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/mhmdakramm.png/">
-    <img src="https://img.shields.io/badge/Instagram-mhmdakramm.png-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.threads.com/@mhmdakramm.png">
-    <img src="https://img.shields.io/badge/Threads-%40mhmdakramm.png-000000?style=flat-square&logo=threads&logoColor=white"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mhmdaqramm&style=flat-square&color=89b4fa&label=visitors"/>
-</div>
+- 👨‍💻 All of my projects are available at [...](...)
 
-<br/>
+- 📫 How to reach me **mhmdaqrammarzuki@gmail.com**
 
-<!-- ═══════════════════════════════════════ SPLIT LAYOUT ══ -->
-<table width="100%" align="center">
-<tr>
-<td width="50%" valign="middle">
+- ⚡ Fun fact **Purpose of live is eat, work, sleep, repeat.**
 
-```bash
-╭─ mhmdaqramm@github ~
-╰─$ cat profile.yaml
-```
-```yaml
-name     : Muhammad Akram Marzuki
-alias    : mhmdaqramm
-from     : Bantaeng, South Sulawesi 🇮🇩
-uni      : Universitas Negeri Makassar
-faculty  : Fakultas Teknik
-major    : Computer Engineering
-batch    : 2025 — TEKOM-B
-org      : Google Developer on Campus
-hobbies  :
-  - Coding 💻
-  - Illustration 🎨
-  - Watching Anime 🍥
-timezone : Asia/Makassar (UTC+08:00)
-status   : "Still figuring it all out... 🌱"
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mhmdakrammarzuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mhmdakrammarzuki" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mhmdakrammarzuki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mhmdakrammarzuki/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@mhmdakrammarzuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mhmdakrammarzuki" height="30" width="40" /></a>
+</p>
 
-</td>
-<td width="4%"></td>
-<td width="46%" valign="middle" align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="./assets/In_Cafe_-_UNM.png" width="98%" style="border-radius:12px" />
-<sub><i>✏️ Original illustration — "In Cafe, UNM"</i></sub>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmdakrammarzuki&show_icons=true&locale=en&layout=compact" alt="mhmdakrammarzuki" /></p>
 
-</td>
-</tr>
-</table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmdakrammarzuki&show_icons=true&locale=en" alt="mhmdakrammarzuki" /></p>
 
-<!-- ═══════════════════════════════════ AFFILIATIONS ══ -->
-<h2>🏛️ Affiliations</h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="./assets/Bantaeng_Regency_Logo.png" height="60"/><br/>
-      <sub><b>Kab. Bantaeng</b><br/><i>South Sulawesi, ID</i></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="./assets/FT_UNM_.png" height="60"/><br/>
-      <sub><b>Fakultas Teknik</b><br/><i>Universitas Negeri Makassar</i></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="./assets/FT_UNM_JTIK.png" height="60"/><br/>
-      <sub><b>Computer Engineering</b><br/><i>Informatics & ICT Dept.</i></sub>
-    </td>
-    <td align="center" width="160">
-      <img src="./assets/TEKOM-B_BlackBG.jpg" height="60" style="border-radius:8px"/><br/>
-      <sub><b>TEKOM-B 2025</b><br/><i>My class batch</i></sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════ TECH STACK ══ -->
-<h2>🛠️ Tech Stack</h2>
-
-<div align="center">
-
-```bash
-$ cat skills.txt | grep --include="[learning]"
-```
-
-<br/>
-
-<!-- Row 1: Languages -->
-<table>
-<tr>
-  <td align="center">
-    <img src="./assets/Cpp-NoBG.png" width="46"/><br/>
-    <sub><b>C++</b></sub><br/>
-    <sub>🟡 Novice</sub>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=java" width="46"/><br/>
-    <sub><b>Java</b></sub><br/>
-    <sub>🟡 Novice</sub>
-  </td>
-  <td align="center">
-    <img src="./assets/Python-logo.png" width="46"/><br/>
-    <sub><b>Python</b></sub><br/>
-    <sub>🟡 Novice</sub>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=git" width="46"/><br/>
-    <sub><b>Git</b></sub><br/>
-    <sub>🔵 Learning</sub>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=github" width="46"/><br/>
-    <sub><b>GitHub</b></sub><br/>
-    <sub>🔵 Learning</sub>
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=vscode" width="46"/><br/>
-    <sub><b>VS Code</b></sub><br/>
-    <sub>🟢 Daily</sub>
-  </td>
-</tr>
-</table>
-
-<br/>
-<sub><i>⚡ Stack will evolve — I'm just getting started.</i></sub>
-
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════════ GITHUB STATS ══ -->
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mhmdaqramm&show_icons=true&count_private=true&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&ring_color=89b4fa&include_all_commits=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdaqramm&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4"/>
-
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mhmdaqramm&theme=catppuccin-mocha&hide_border=true&background=0d1117&ring=89b4fa&fire=fab387&currStreakLabel=89b4fa&sideLabels=6c7086&dates=6c7086&currStreakNum=cdd6f4&sideNums=cdd6f4"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdaqramm&bg_color=0d1117&color=89b4fa&line=313244&point=89b4fa&area_color=1e1e2e&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhmdaqramm&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════ SNAKE ANIMATION ══ -->
-<h2>:v Contribution</h2>
-
-<div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph-dark.svg"/>
-</picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════ CREATIVE WORKS ══ -->
-<h2>🎨 Creative Works</h2>
-
-<div align="center">
-
-<sub>Beyond code — I also create. Here's a glimpse of my illustration work.</sub>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./assets/In_Cafe_-_UNM.png" width="290" style="border-radius:10px"/><br/>
-      <sub>📍 <b>In Cafe — UNM</b><br/>Original digital illustration</sub>
-    </td>
-    <td align="center">
-      <img src="./assets/Best_Dad_Ever__Desktop_.png" width="290" style="border-radius:10px"/><br/>
-      <sub>💛 <b>Best Dad Ever</b><br/>Original digital illustration</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://www.instagram.com/mhmdakramm.png/">
-  <img src="https://img.shields.io/badge/More%20Artwork%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@MuhammadAkramMarzuki">
-  <img src="https://img.shields.io/badge/More%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════ CONNECT ══ -->
-<h2>🤝 Let's Connect</h2>
-
-<div align="center">
-
-```bash
-$ echo "Open to learn · collaborate · and just say hi 👋"
-```
-
-<br/>
-
-<a href="https://www.youtube.com/@MuhammadAkramMarzuki">
-  <img src="https://img.shields.io/badge/YouTube-%40MuhammadAkramMarzuki-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mhmdakramm.png/">
-  <img src="https://img.shields.io/badge/Instagram-mhmdakramm.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.threads.com/@mhmdakramm.png">
-  <img src="https://img.shields.io/badge/Threads-%40mhmdakramm.png-101010?style=for-the-badge&logo=threads&logoColor=white"/>
-</a>
-
-<br/><br/>
-<sub>🏠 Working from home — Bantaeng, South Sulawesi, Indonesia</sub>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════ FOOTER ══ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,50:132030,100:0d1117&height=110&section=footer"/>
-  <sub>Made with ❤️ by <a href="https://github.com/mhmdaqramm">mhmdaqramm</a> · Inspired by the open source community</sub>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdakrammarzuki&" alt="mhmdakrammarzuki" /></p>
