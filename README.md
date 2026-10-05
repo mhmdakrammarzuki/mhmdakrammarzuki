@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on **Cybersecurity & Cloud Projects**<br>
+🔭 I’m currently working on **Embedded Projects**<br>
 👯 I’m looking to collaborate on **DevOps & Open Source Projects**<br>
 🤝 I’m looking for help with **Advanced Network Security & Cloud Architecture**<br>
-🌱 I’m currently learning **Cybersecurity, Cloud Engineering, and DevOps**<br>
+🌱 I’m currently learning **Cybersecurity, Cloud Engineering, UI/UX Design Interface, Embedded, and DevOps**<br>
 💬 Ask me about **Linux, Docker, C++, and Bash Scripting**<br>
 ⚡ Fun fact: **The purpose of life is to eat, work, sleep, and repeat.**
 
